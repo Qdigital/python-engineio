@@ -3,5 +3,5 @@ httptools==0.0.9
 python_engineio
 sanic==0.3.1
 six==1.10.0
-ujson==1.35
+ujson==5.2.0
 uvloop==0.8.0
